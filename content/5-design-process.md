@@ -49,7 +49,7 @@ One advantage of open source projects is direct access to your user community. H
 - Contributors who help develop the software
 - Maintainers who provide continuity to the project
 
-Each group has different needs and expectations. Your job is to make the software work well for all of them. Often, it is best to focus on one group at a time.
+Each group has different needs and expectations. People in these groups may have disabilities and/or may access the web differently than you do. Your job is to make the software work well for all of them. Often, it is best to focus on one group at a time.
 
 ### Personas
 
